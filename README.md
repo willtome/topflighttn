@@ -19,3 +19,8 @@ View this jekyll theme in action [here](https://vidhyav656.github.io/startbootst
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
+BG Source: https://www.pexels.com/photo/aerial-view-of-clouds-258149/
+Callout Source: https://www.cirruspilots.org/copa/regions/formationflying/m/formationflyingmediagallery/photo/default.aspx#!777393_Photo
+SkyVector embed: https://skyvector.com/content/linking-skyvector#comment-452
