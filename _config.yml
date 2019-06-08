@@ -22,7 +22,7 @@ keywords: aviation, general-aviation, plane, pilot, tennessee, nashville, cirrus
 baseurl: ''
 url: ''
 
-#google_analytics_tracking_id: UA-129738661-1
+google_analytics_tracking_id: UA-141730218-1
 # Build settings
 markdown: kramdown
 theme: minima
